@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "SIX_DEGREES_BACKEND.Controllers.SixDegreesApiController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/SixDegreesApi/CrearUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SIX_DEGREES_BACKEND.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIX_DEGREES_BACKEND.Controllers.SixDegreesApiController",
+    "Method": "BorrarUsuario",
+    "RelativePath": "api/SixDegreesApi/EliminarUsuario",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIX_DEGREES_BACKEND.Controllers.SixDegreesApiController",
+    "Method": "EditarUsuario",
+    "RelativePath": "api/SixDegreesApi/ModificarUsuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "usuario",
+        "Type": "SIX_DEGREES_BACKEND.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIX_DEGREES_BACKEND.Controllers.SixDegreesApiController",
+    "Method": "GetUsuario",
+    "RelativePath": "api/SixDegreesApi/ObtenerUsuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
