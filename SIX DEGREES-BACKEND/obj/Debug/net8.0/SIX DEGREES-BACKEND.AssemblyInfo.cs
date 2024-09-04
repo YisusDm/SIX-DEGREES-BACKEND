@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIX DEGREES-BACKEND")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243eec6c3769c4379af899ea516bc7d7dc1f54bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ef5a95023644e1499db07ce5d7da12f46a15a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIX DEGREES-BACKEND")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIX DEGREES-BACKEND")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

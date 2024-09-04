@@ -251,3 +251,4 @@ C:\Users\Jesus Marquez\Desktop\Software Develop\Developments\.Net\SIX DEGRESS-BA
 C:\Users\Jesus Marquez\Desktop\Software Develop\Developments\.Net\SIX DEGRESS-BACKEND-(.Net)\SIX DEGREES-BACKEND\SIX DEGREES-BACKEND\obj\Debug\net8.0\SIX DEGREES-BACKEND.csproj.AssemblyReference.cache
 C:\Users\Jesus Marquez\Desktop\Software Develop\Developments\.Net\SIX DEGRESS-BACKEND-(.Net)\SIX DEGREES-BACKEND\SIX DEGREES-BACKEND\obj\Debug\net8.0\SIX DEGREES-BACKEND.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Jesus Marquez\Desktop\Software Develop\Developments\.Net\SIX DEGRESS-BACKEND-(.Net)\SIX DEGREES-BACKEND\SIX DEGREES-BACKEND\obj\Debug\net8.0\SIX DEGR.84DF8E5E.Up2Date
+C:\Users\Jesus Marquez\Desktop\Software Develop\Developments\.Net\SIX DEGRESS-BACKEND-(.Net)\SIX DEGREES-BACKEND\SIX DEGREES-BACKEND\obj\Debug\net8.0\SIX DEGREES-BACKEND.sourcelink.json
