@@ -61,5 +61,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIX_DEGREES_BACKEND.Controllers.SixDegreesApiController",
+    "Method": "GetUsuarioId",
+    "RelativePath": "api/SixDegreesApi/ObtenerUsuariosId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

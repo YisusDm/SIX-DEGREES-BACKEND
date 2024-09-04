@@ -16,12 +16,24 @@ namespace SIX_DEGREES_BACKEND.Controllers
             _usuarioRepository = usuarioRepository;
         }
 
-        // Método GET para obtener la lista de usuarios
+        // Método GET para obtener la lista de usuario
         [HttpGet("ObtenerUsuarios")]
         public async Task<IActionResult> GetUsuario()
         {
             var usuarios = await _usuarioRepository.ObtenerUsuariosAsync();
             return Ok(usuarios);
+        }
+
+        // Método GET para usuario por ID
+        [HttpGet("ObtenerUsuariosId")]
+        public async Task<IActionResult> GetUsuarioId(int id)
+        {
+            var usuario = await _usuarioRepository.ObtenerUsuarioIdAsync(id);
+            if (usuario == null)
+            {
+                return NotFound();
+            }
+            return Ok(usuario);
         }
 
         // Método POST para crear un nuevo usuario
